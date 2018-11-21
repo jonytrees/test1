@@ -1,0 +1,27 @@
+//==================== section form
+.section-form {
+  background: no-repeat 50% 50% transparent;
+
+  .btn-holder {
+    margin-top: 0px;
+  }
+
+  .btn {
+    width: 300px;
+  }
+}
+
+//==================== section form-x
+.form-x {
+  background-image: url('../images/formX-bg.jpg');
+  padding: 0px 0 0px;
+
+  h1{
+    color: #ccc !important;
+    font-size: 32px !important;
+  }
+
+  h2 {
+    margin-bottom: 0px;
+  }
+}
