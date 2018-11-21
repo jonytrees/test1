@@ -158,6 +158,7 @@ if (file_exists('SxGeo.php')) {
                 <span class="big">
                     new title
                 </span>
+                second title
             </h1>
 
         </div>
